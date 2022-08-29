@@ -36,7 +36,6 @@ body {
   background: url("../img/1.jpg") center / cover no-repeat fixed;
 }
 .fullscreen__body {
-  /* background-color: #794f45; */
   flex: 1 1 auto;
   max-width: 1000px;
   margin: 0px auto;
@@ -67,8 +66,7 @@ body {
   padding: 0 20px;
   /* align-self: center; */
 }
-.content {
-}
+
 .content__body {
   max-width: 1000px;
   margin: 0px auto;
